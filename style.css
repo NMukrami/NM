@@ -131,6 +131,7 @@ ul li a.active {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    /* text-align: center; */
 }
 
 .view {
@@ -277,6 +278,7 @@ ul li a.active {
         padding: 10rem 1rem 5rem 1rem;
         text-align: center;
         grid-template-columns: repeat(1, 1fr);
+   
     }
 
     .image {

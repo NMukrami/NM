@@ -2,4 +2,4 @@
 <p> Welcome to my personal website! This project showcases my personal and professional portfolio, including information about me, my projects, and how to get in touch.</p>
 
 in progress...<br>
-<https://nmukrami.github.io/NM/index.html>
+<https://nmukrami.github.io/NM>
